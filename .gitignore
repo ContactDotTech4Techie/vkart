@@ -1,0 +1,6 @@
+.settings
+classes/
+.externalToolBuilders
+.classpath
+.project
+.springBeans
